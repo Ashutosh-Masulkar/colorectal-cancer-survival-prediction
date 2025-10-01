@@ -1,0 +1,14 @@
+# Core
+pandas~=2.2
+numpy~=1.26
+scipy~=1.11
+
+# Modeling
+scikit-learn~=1.4
+lightgbm~=4.3
+catboost~=1.2
+
+# Viz / Notebook
+matplotlib~=3.8
+seaborn~=0.13
+jupyter~=1.0
